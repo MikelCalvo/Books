@@ -14,3 +14,4 @@
 - 25/11/2018-30/11/2018 For the Love of Money - Sam Polk
 - 02/12/2018-10/12/2018 The Buy Side - Turney Duff
 - 17/12/2018-~ The Wolf of Wall Street - Jordan Belfort
+- 07/01/2019-14/01/2019 Models - Mark Manson
