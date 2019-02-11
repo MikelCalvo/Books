@@ -13,6 +13,7 @@
 - 01/01/2014-01/01/2018 Girl Walks Out of a Bar - Lisa F. Smith
 - 25/11/2018-30/11/2018 For the Love of Money - Sam Polk
 - 02/12/2018-10/12/2018 The Buy Side - Turney Duff
-- 17/12/2018-~ The Wolf of Wall Street - Jordan Belfort
+- 17/12/2018-10/02/2019 The Wolf of Wall Street - Jordan Belfort (Not Finished)
 - 07/01/2019-14/01/2019 Models - Mark Manson
-- 25/01/2019-~ The Subtle Art of Not Giving a F*ck - Mark Manson
+- 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F*ck - Mark Manson (Not Finished)
+- 11/02/2019-~ 1984 - George Orwell
