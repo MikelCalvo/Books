@@ -1,4 +1,4 @@
-@Mikel Calvo's Library
+@Mikel Calvo's Book List
 ===============
 - 01/01/2014-01/01/2018 Rich Dad Poor Dad - Robert Kiyosaki
 - 01/01/2014-01/01/2018 Midas Touch - Donald Trump & Robert Kiyosaki
@@ -16,4 +16,4 @@
 - 17/12/2018-10/02/2019 The Wolf of Wall Street - Jordan Belfort (Not Finished)
 - 07/01/2019-14/01/2019 Models - Mark Manson
 - 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F*ck - Mark Manson (Not Finished)
-- 11/02/2019-~ 1984 - George Orwell
+- 22/02/2019-~ The New Trading for a Living - Dr. Alexander Elder
