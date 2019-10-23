@@ -18,5 +18,5 @@
 - 07/01/2019-14/01/2019 Models - Mark Manson
 - 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F*ck - Mark Manson (Not Finished)
 - 22/02/2019-1/05/2019 The New Trading for a Living - Dr. Alexander Elder (From part 1 to 3)
-- 11/05/2019-~ Memorias de un preso - Mario Conde
+- 11/05/2019-14/07/2019 Memorias de un preso - Mario Conde (Primer y Segundo Encierro)
 - 19/08/2019-21/10/2019 Liar's Poker: Rising through the Wreckage on Wall Street - Michael Lewis
