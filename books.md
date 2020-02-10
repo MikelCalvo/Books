@@ -21,4 +21,4 @@
 - 11/05/2019-14/07/2019 Memorias de un preso - Mario Conde (Primer y Segundo Encierro)
 - 19/08/2019-21/10/2019 Liar's Poker: Rising through the Wreckage on Wall Street - Michael Lewis
 - 01/11/2019-06/01/2020 One Up On Wall Street - Peter Lynch
-- 17/01/2020-~ Historia Económica Mundial: Una Breve Introducción - Robert C. Allen
+- 17/01/2020-10/02/2020 Historia Económica Mundial: Una Breve Introducción - Robert C. Allen
