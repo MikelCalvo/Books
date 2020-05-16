@@ -25,3 +25,5 @@
 - 26/02/2020-15/04/2020 Conspiracy - Ryan Holiday
 - 16/04/2020-25/04/2020 1984 - George Orwell
 - 27/04/2020-~ Nosotros los mercados - Daniel Lacalle
+- 16/05/2020-~ Hooked: How to Build Habit-Forming Products - Nir Eyal
+
