@@ -24,5 +24,6 @@
 - 17/01/2020-10/02/2020 Historia Económica Mundial: Una Breve Introducción - Robert C. Allen
 - 26/02/2020-15/04/2020 Conspiracy - Ryan Holiday
 - 16/04/2020-25/04/2020 1984 - George Orwell
-- 27/04/2020-11/06/2020 Nosotros los mercados - Daniel Lacalle
-- 16/05/2020-~ Hooked: How to Build Habit-Forming Products - Nir Eyal
+- 27/04/2020-11/06/2020 Nosotros los Mercados - Daniel Lacalle
+- 16/05/2020-08/07/2020 Hooked: How to Build Habit-Forming Products - Nir Eyal
+- 04/08/2020-~ The Innovators - Walter Isaacson
