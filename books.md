@@ -27,4 +27,5 @@
 - 27/04/2020-11/06/2020 Nosotros los Mercados - Daniel Lacalle
 - 16/05/2020-08/07/2020 Hooked: How to Build Habit-Forming Products - Nir Eyal
 - 04/08/2020-09/10/2020 The Innovators - Walter Isaacson
-- 12/10/2020-~ Flash Boys: A Wall Street Revolt - Michael Lewis
+- 12/10/2020-20/10/2020 Flash Boys: A Wall Street Revolt - Michael Lewis
+- 02/11/2020-~ The Hard Thing About Hard Things - Ben Horowitz
