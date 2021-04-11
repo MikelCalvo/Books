@@ -31,4 +31,4 @@
 - 02/11/2020-30/11/2020 The Hard Thing About Hard Things - Ben Horowitz
 - 01/12/2020-13/01/2021 That Will Never Work - Marc Randolph
 - 01/02/2021-02/03/2021 Billion Dollar Whale - Tom Wright
-- 16/03/2021-~ Blockchain Chicken Farm - Xiaowei Wang
+- 16/03/2021-11/04/2021 Blockchain Chicken Farm - Xiaowei Wang
