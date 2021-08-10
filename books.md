@@ -32,3 +32,4 @@
 - 01/12/2020-13/01/2021 That Will Never Work - Marc Randolph
 - 01/02/2021-02/03/2021 Billion Dollar Whale - Tom Wright
 - 16/03/2021-11/04/2021 Blockchain Chicken Farm - Xiaowei Wang
+- 08/08/2021-~ Zero to One - Peter Thiel
