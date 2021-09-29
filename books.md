@@ -1,5 +1,5 @@
-@Mikel Calvo's Book List
-===============
+# @Mikel Calvo's Book List
+
 - 01/12/2017-01/01/2018 THE BOOKS DATED 01/01/2018 ARE THE ONES THAT I'VE READ IN THE PAST
 - 01/01/2018 Rich Dad Poor Dad - Robert Kiyosaki
 - 01/01/2018 Midas Touch - Donald Trump & Robert Kiyosaki
@@ -16,7 +16,7 @@
 - 02/12/2018-10/12/2018 The Buy Side - Turney Duff
 - 17/12/2018-10/02/2019 The Wolf of Wall Street - Jordan Belfort (Not Finished)
 - 07/01/2019-14/01/2019 Models - Mark Manson
-- 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F*ck - Mark Manson (Not Finished)
+- 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F\*ck - Mark Manson (Not Finished)
 - 22/02/2019-1/05/2019 The New Trading for a Living - Dr. Alexander Elder (From part 1 to 3)
 - 11/05/2019-14/07/2019 Memorias de un preso - Mario Conde (Primer y Segundo Encierro)
 - 19/08/2019-21/10/2019 Liar's Poker: Rising through the Wreckage on Wall Street - Michael Lewis
@@ -32,4 +32,5 @@
 - 01/12/2020-13/01/2021 That Will Never Work - Marc Randolph
 - 01/02/2021-02/03/2021 Billion Dollar Whale - Tom Wright
 - 16/03/2021-11/04/2021 Blockchain Chicken Farm - Xiaowei Wang
-- 08/08/2021-~ Zero to One - Peter Thiel
+- 08/08/2021-28/08/2021 Zero to One - Peter Thiel
+- 29/09/2021-~ Super Pumped: The Battle for Uber - Mike Isaac
