@@ -35,4 +35,4 @@
 - 08/08/2021-28/08/2021 Zero to One - Peter Thiel
 - 29/09/2021-18/04/2022 Super Pumped: The Battle for Uber - Mike Isaac
 - 20/04/2022-10/05/2022 The Money Hackers - Daniel P. Simon
-- 12/05/2022-~ Nietzsche - Ivo Frenzel
+- 12/05/2022-11/07/2022 Nietzsche - Ivo Frenzel
