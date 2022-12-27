@@ -17,7 +17,7 @@
 - 17/12/2018-10/02/2019 The Wolf of Wall Street - Jordan Belfort (Not Finished)
 - 07/01/2019-14/01/2019 Models - Mark Manson
 - 25/01/2019-10/02/2019 The Subtle Art of Not Giving a F\*ck - Mark Manson (Not Finished)
-- 22/02/2019-1/05/2019 The New Trading for a Living - Dr. Alexander Elder (From part 1 to 3)
+- 22/02/2019-01/05/2019 The New Trading for a Living - Dr. Alexander Elder (From part 1 to 3)
 - 11/05/2019-14/07/2019 Memorias de un preso - Mario Conde (Primer y Segundo Encierro)
 - 19/08/2019-21/10/2019 Liar's Poker: Rising through the Wreckage on Wall Street - Michael Lewis
 - 01/11/2019-06/01/2020 One Up On Wall Street - Peter Lynch
@@ -36,4 +36,5 @@
 - 29/09/2021-18/04/2022 Super Pumped: The Battle for Uber - Mike Isaac
 - 20/04/2022-10/05/2022 The Money Hackers - Daniel P. Simon
 - 12/05/2022-11/07/2022 Nietzsche - Ivo Frenzel
-- 09/08/2022-~ AI 2041: Ten Visions for Our Future - Kai-Fu Lee & Chen Qiufan
+- 09/08/2022-23/12/2022 AI 2041: Ten Visions for Our Future - Kai-Fu Lee & Chen Qiufan
+- 27/12/2022-~ El Manantial - Ayn Rand
