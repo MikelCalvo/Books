@@ -38,4 +38,4 @@
 - 12/05/2022-11/07/2022 Nietzsche - Ivo Frenzel
 - 09/08/2022-23/12/2022 AI 2041: Ten Visions for Our Future - Kai-Fu Lee & Chen Qiufan
 - 27/12/2022-10/02/2023 El Manantial - Ayn Rand
-- 22/04/2023-~ El Cisne Negro - Nassim Nicholas Taleb
+- 22/04/2023-12/08/2023 El Cisne Negro - Nassim Nicholas Taleb
