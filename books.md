@@ -40,3 +40,4 @@
 - 27/12/2022-10/02/2023 El Manantial - Ayn Rand
 - 22/04/2023-12/08/2023 El Cisne Negro - Nassim Nicholas Taleb
 - 08/12/2023-03/01/2024 Never Split The Difference - Chris Voss
+- 24/02/2024-~ Fancy Bear Goes Phishing - Scott J. Shapiro
